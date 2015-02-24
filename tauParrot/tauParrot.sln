@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tauParrot", "tauParrot\tauParrot.csproj", "{F118D43E-896C-49D5-B33D-9C6E6F97A75F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tauParrot.tests", "tauParrot.tests\tauParrot.tests.csproj", "{B9F02F6A-DA3A-4981-9F65-286CE0C60F37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F118D43E-896C-49D5-B33D-9C6E6F97A75F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F118D43E-896C-49D5-B33D-9C6E6F97A75F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F118D43E-896C-49D5-B33D-9C6E6F97A75F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F118D43E-896C-49D5-B33D-9C6E6F97A75F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9F02F6A-DA3A-4981-9F65-286CE0C60F37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9F02F6A-DA3A-4981-9F65-286CE0C60F37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9F02F6A-DA3A-4981-9F65-286CE0C60F37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9F02F6A-DA3A-4981-9F65-286CE0C60F37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
